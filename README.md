@@ -1,5 +1,5 @@
-# JSCOE-SPPU---WTL-All-Practical-Assignment-videos-code-Manual-and-List-of-Assignments
-WTL All Practical Assignment videos,code,Manual and List of Assignments 
+# JSCOE-(SPPU)-WTL-All-Practical-Assignment-videos-code-Manual-and-List-of-Assignments
+
 
 
 Click on the link mention below to receive (get) help for Web Technology Lab Praticals
