@@ -1,4 +1,4 @@
-# JSCOE-(SPPU)-WTL-All-Practical-Assignment-videos-code-Manual-and-List-of-Assignments
+# JSCOE (SPPU) WTL All Practical Assignment (with videos, code, Manual and List of-Assignments )
 
 
 
